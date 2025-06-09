@@ -1,11 +1,11 @@
 {
-    "name": "whatsapp_text_link",
-    "short_name": "whatsapp_text_link",
+    "name": "whatsapp_link_generator",
+    "short_name": "whatsapp_link_generator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#010101",
     "theme_color": "#010101",
-    "description": "A new Flutter project.",
+    "description": "Gerador de link para WhatsApp",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
